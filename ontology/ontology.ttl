@@ -14,6 +14,8 @@
 @prefix adapters: <https://auroral.iot.linkeddata.es/def/adapters#> .
 @base <https://auroral.iot.linkeddata.es/def/energy#> .
 
+#################################################################
+
 <https://auroral.iot.linkeddata.es/def/energy#> rdf:type owl:Ontology ;
                                                  dc:creator "Ahlem Rhayem" ,
                                                             "Andrea Cimmino" ,
@@ -23,7 +25,7 @@
                                                  dc:description "Ontology code created by Chowlk" .
 
 #################################################################
-#    Annotation properties
+#    Annotation properties 
 #################################################################
 
 ###  http://purl.org/dc/elements/1.1/creator
