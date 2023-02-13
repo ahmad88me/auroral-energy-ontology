@@ -258,7 +258,7 @@
   "@id" : "https://auroral.iot.linkeddata.es/def/energy#SourceEnergy",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "Source Energy"
+    "@value" : "Source Energy TEST"
   } ]
 }, {
   "@id" : "https://auroral.iot.linkeddata.es/def/energy#Springer",
@@ -330,7 +330,7 @@
   "@id" : "https://auroral.iot.linkeddata.es/def/energy#contractTime",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
-    "@value" : "Indicates the type of agreement (Year, month, week)"
+    "@value" : "Indicates the type of agreement (Year, month, week) TEST"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
     "@id" : "https://auroral.iot.linkeddata.es/def/energy#FixedAgreement"
@@ -420,7 +420,7 @@
     "@id" : "https://auroral.iot.linkeddata.es/def/core#Building"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "heating Area"
+    "@value" : "heating Area TEST"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "http://www.w3.org/2001/XMLSchema#float"
@@ -486,7 +486,7 @@
     "@id" : "https://saref.etsi.org/core#Property"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "is property of"
+    "@value" : "is property of TEST"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "https://saref.etsi.org/core#FeatureofInterest"
