@@ -109,7 +109,7 @@
 <https://saref.etsi.org/core#isPropertyOf> rdf:type owl:ObjectProperty ;
                                            rdfs:domain <https://saref.etsi.org/core#Property> ;
                                            rdfs:range <https://saref.etsi.org/core#FeatureofInterest> ;
-                                           rdfs:label "is property of" .
+                                           rdfs:label "is property of TEST" .
 
 
 #################################################################
@@ -143,7 +143,7 @@
 :contractTime rdf:type owl:DatatypeProperty ;
               rdfs:domain :FixedAgreement ;
               rdfs:range xsd:string ;
-              rdfs:comment "Indicates the type of agreement (Year, month, week)" .
+              rdfs:comment "Indicates the type of agreement (Year, month, week) TEST" .
 
 
 ###  https://auroral.iot.linkeddata.es/def/energy#costPrice
@@ -156,7 +156,7 @@
 :heatingArea rdf:type owl:DatatypeProperty ;
              rdfs:domain <https://auroral.iot.linkeddata.es/def/core#Building> ;
              rdfs:range xsd:float ;
-             rdfs:label "heating Area" .
+             rdfs:label "heating Area TEST" .
 
 
 #################################################################
@@ -225,7 +225,7 @@
 
 ###  https://auroral.iot.linkeddata.es/def/energy#SourceEnergy
 :SourceEnergy rdf:type owl:Class ;
-              rdfs:label "Source Energy" .
+              rdfs:label "Source Energy TEST" .
 
 
 ###  https://auroral.iot.linkeddata.es/def/energy#StandardAgreement
